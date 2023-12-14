@@ -60,6 +60,9 @@ body {
   opacity: 0.5;
   cursor: pointer;
 }
+.image-container:hover  {
+  cursor: pointer;
+}
 
 .image-container:hover .overlay + .view {
   display: block;
